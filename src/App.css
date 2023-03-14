@@ -1,0 +1,41 @@
+body{
+  padding: 5vw;
+  text-align: center;
+  width: 60%;
+  height: auto;
+}
+.main-header{
+  width:90%;
+}
+.saffron{
+  width: 60%;
+  height:13vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:	#ff9933 ;
+}
+.white{
+  width: 60%;
+  height:13vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+.green{
+  width: 60%;
+  height:13vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: green;
+}
+.chakra{
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+.chakra img{
+  width: 85px;
+}
+
